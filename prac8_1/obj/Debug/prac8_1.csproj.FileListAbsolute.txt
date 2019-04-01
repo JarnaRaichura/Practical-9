@@ -1,0 +1,7 @@
+F:\16ce028\prac8\prac8_1\bin\prac8_1.dll
+F:\16ce028\prac8\prac8_1\bin\prac8_1.pdb
+F:\16ce028\prac8\prac8_1\bin\prac8.dll
+F:\16ce028\prac8\prac8_1\bin\prac8.pdb
+F:\16ce028\prac8\prac8_1\obj\Debug\prac8_1.csprojResolveAssemblyReference.cache
+F:\16ce028\prac8\prac8_1\obj\Debug\prac8_1.dll
+F:\16ce028\prac8\prac8_1\obj\Debug\prac8_1.pdb

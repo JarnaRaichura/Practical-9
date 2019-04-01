@@ -1,0 +1,4 @@
+F:\16ce028\prac8\prac8\bin\prac8.dll
+F:\16ce028\prac8\prac8\bin\prac8.pdb
+F:\16ce028\prac8\prac8\obj\Debug\prac8.dll
+F:\16ce028\prac8\prac8\obj\Debug\prac8.pdb
